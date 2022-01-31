@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jagadeesh and i'm a full stack developer
+- 👀 I’m interested in building applications
+- 🌱 I’m currently learning aws
+- 💞️ I’m looking to collaborate on building apps with react
+- 📫 How to reach me - send a mail to jagadeeshgowthu007@gmail.com
